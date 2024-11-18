@@ -1,0 +1,20 @@
+
+body{
+  background-color: pink;
+}
+div{
+  background-color: whitesmoke;
+}
+  h1{
+  background-color: aqua;
+  
+  font-family: sans-serif;
+  text-align: center;
+  
+  
+}
+h2{
+  background-color: blueviolet;
+  color: wheat;
+  border-radius: 10px;
+}
